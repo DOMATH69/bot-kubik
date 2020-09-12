@@ -1,21 +1,14 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 require_once("sdata-modules.php");
-/**
- * @Author: Eka Syahwan
- * @Date:   2017-12-11 17:01:26
- * @Last Modified by:   Eka Syahwan
- * @Last Modified time: 2018-08-17 15:13:34
-*/
-
 
 ##############################################################################################################
-$config['deviceCode'] 		= '356104081258527';
-$config['tk'] 				= 'ACFPtdoiaqJDCqf2EX3UxYJNfsxHMr5vQ6JxdHRodw';
-$config['token'] 			= '8295eTrWvszsOv0ZVdgy5tDbT0I0LRsSzboF6REc_4_gNIL9lug3H9NL6TPzMtuNu-IK4VNYEAUUN9Q';
-$config['uuid'] 			= 'e48ca19b3f5148dbbbda4529e76641b3';
-$config['sign'] 			= 'd4f811bd561a555f3d596b2665a2f365';
-$config['android_id'] 		= '2c23875924901f37';
+$config['deviceCode'] 		= '';
+$config['tk'] 				= '';
+$config['token'] 			= '';
+$config['uuid'] 			= '';
+$config['sign'] 			= '';
+$config['android_id'] 		= '';
 ##############################################################################################################
 
 
